@@ -1,0 +1,24 @@
+git config --global user.name "shivanya9815"
+git config --global user.email "bshivanya22@gmail.com"
+git config --list 
+===============================================
+git clone
+to download remote repository to local system we use git clone
+git status
+git status tells us  we are in which area
+red colour indicates we are working directory, 
+green colour indicates staging area
+no colour indicated local repository
+
+git add .
+to bring the file from working directory to staging area we use git add .
+
+git commit
+to bring the file from staging area to local repository we use git commit
+
+git log
+to see how many commits we done
+
+git push
+git pull
+ 
